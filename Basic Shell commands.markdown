@@ -2,7 +2,7 @@
 
 (using git bash on **windows**)
 
-| Commands | Example                      | Description                               |
+| Command  | Example                      | Description                               |
 | :------: | ---------------------------- | :---------------------------------------- |
 |  mkdir   | mkdir new_folder             | Make directory                            |
 |    ls    |                              | List file and directories                 |
