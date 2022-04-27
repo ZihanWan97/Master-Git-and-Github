@@ -1,5 +1,5 @@
 # Master-Git-and-Github
-Record the process of learning Excel.
+Record the process of learning Git.
 
 
 ## Resources:
